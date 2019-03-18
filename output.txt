@@ -1,0 +1,5 @@
+The output of duplicate_arrays is:
+
+input: 10 20 20 100 30 40 100 50 30 70 70
+
+output: 10 20 100 30 40 50 70
